@@ -1,0 +1,10 @@
+Technical Outcome:
+An Unified/Converged/Consolidated, multi-layered data warehouse that integrates batch raw data into a structured, historical, and business-ready repository with support for both lower granular and aggregated data for analytics.
+
+
+Business Outcome
+✓ Branch Performance: Quick identification of top-performing and underperforming branches.
+✓ Fraud & Risk Detection: Automated detection of suspicious transactions through specialized marts.
+✓ Customer Insights: Enhanced customer profiling for better services and up/cross-selling.
+✓ Operational Efficiency: Removal of duplicate/inconsistent data, enabling faster reporting.
+✓ Data-Driven Decision Making: Trusted reports and dashboards empowering leadership decisions.
